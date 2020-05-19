@@ -1,5 +1,5 @@
 '''
-Ejercicio : Se desea crear un arbol tan alto como los niveles que indique el usuario.
+Ejercicio 11: Se desea crear un arbol tan alto como los niveles que indique el usuario.
 '''
 
 num = int(input("Que tan alto sera el arbol?: "))
