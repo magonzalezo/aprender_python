@@ -14,6 +14,7 @@ print("")
 print(type(nombre))
 
 # Detectar tipo
+print("")
 comprobar = isinstance(nombre, str)
 if comprobar:
     print("La variable es un String")
